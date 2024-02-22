@@ -11984,5 +11984,8 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+body {
+  font-family: "Inter", sans-serif;
+}
 
 /*# sourceMappingURL=style.css.map */
